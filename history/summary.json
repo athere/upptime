@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/athe.re",
     "slug": "short-url-service",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.21%",
+    "uptimeDay": "6.80%",
+    "uptimeWeek": "86.69%",
+    "uptimeMonth": "96.94%",
+    "uptimeYear": "97.21%",
     "time": 308,
-    "timeDay": 419,
-    "timeWeek": 392,
-    "timeMonth": 304,
+    "timeDay": 0,
+    "timeWeek": 396,
+    "timeMonth": 308,
     "timeYear": 308,
     "dailyMinutesDown": {
-      "2022-09-29": 0
+      "2022-09-30": 78,
+      "2022-09-29": 1264
     }
   }
 ]
