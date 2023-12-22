@@ -4,7 +4,7 @@
     "url": "https://athe.re/",
     "icon": "https://icons.duckduckgo.com/ip3/athe.re.ico",
     "slug": "short-url-service",
-    "status": "up",
+    "status": "down",
     "uptime": "93.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "87.79%",
@@ -16,6 +16,7 @@
     "timeMonth": 314,
     "timeYear": 301,
     "dailyMinutesDown": {
+      "2023-12-22": 0,
       "2023-12-17": 654,
       "2023-12-16": 576,
       "2023-08-12": 304,
