@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/athe.re.ico",
     "slug": "short-url-service",
     "status": "up",
-    "uptime": "95.26%",
+    "uptime": "95.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.37%",
+    "uptimeYear": "98.64%",
     "time": 452,
-    "timeDay": 443,
-    "timeWeek": 398,
-    "timeMonth": 417,
+    "timeDay": 201,
+    "timeWeek": 368,
+    "timeMonth": 409,
     "timeYear": 495,
     "dailyMinutesDown": {
       "2024-02-16": 168,
@@ -28,8 +28,7 @@
       "2023-12-17": 654,
       "2023-12-16": 576,
       "2023-08-12": 304,
-      "2023-08-11": 1440,
-      "2023-08-10": 1440
+      "2023-08-11": 1440
     }
   }
 ]
