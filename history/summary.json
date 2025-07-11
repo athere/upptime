@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/athe.re.ico",
     "slug": "short-url-service",
     "status": "up",
-    "uptime": "96.76%",
+    "uptime": "96.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 396,
-    "timeDay": 293,
-    "timeWeek": 307,
-    "timeMonth": 327,
-    "timeYear": 404,
+    "time": 397,
+    "timeDay": 379,
+    "timeWeek": 310,
+    "timeMonth": 329,
+    "timeYear": 403,
     "dailyMinutesDown": {
       "2025-05-16": 234
     }
