@@ -4,18 +4,19 @@
     "url": "https://athe.re/",
     "icon": "https://icons.duckduckgo.com/ip3/athe.re.ico",
     "slug": "short-url-service",
-    "status": "up",
+    "status": "down",
     "uptime": "96.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 397,
-    "timeDay": 198,
-    "timeWeek": 266,
-    "timeMonth": 326,
-    "timeYear": 402,
+    "time": 436,
+    "timeDay": 9924,
+    "timeWeek": 2689,
+    "timeMonth": 930,
+    "timeYear": 454,
     "dailyMinutesDown": {
+      "2025-09-23": 0,
       "2025-05-16": 234
     }
   }
