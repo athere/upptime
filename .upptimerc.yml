@@ -12,8 +12,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: upptime.athe.re
   # baseUrl: /your-repo-name
-  name: athere Service Status Monitor
-  introTitle: athere Service Status Monitor
+  name: AtHere Service Status Monitor
+  introTitle: AtHere Service Status Monitor
   introMessage: Use **real-time** data from our [Github repository](https://github.com/koj-co/upptime) powered by open-source uptime monitor **Upptime** and **GitHub**.
   navbar:
     - title: Status
