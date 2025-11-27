@@ -5,7 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: AtHere ShortURL Service
     url: https://athe.re/
-
+  - name: AtHere Bookmark Service
+    url: https://bookmark.family.im/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
