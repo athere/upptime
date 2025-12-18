@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 324,
-    "timeDay": 299,
-    "timeWeek": 328,
-    "timeMonth": 324,
-    "timeYear": 324,
+    "time": 320,
+    "timeDay": 212,
+    "timeWeek": 305,
+    "timeMonth": 320,
+    "timeYear": 320,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/bookmark.family.im.ico",
     "slug": "at-here-bookmark-service",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1386,
-    "timeDay": 10146,
-    "timeWeek": 2939,
-    "timeMonth": 1386,
-    "timeYear": 1386,
+    "uptime": "96.96%",
+    "uptimeDay": "36.14%",
+    "uptimeWeek": "90.88%",
+    "uptimeMonth": "96.96%",
+    "uptimeYear": "96.96%",
+    "time": 2191,
+    "timeDay": 19838,
+    "timeWeek": 5356,
+    "timeMonth": 2191,
+    "timeYear": 2191,
     "dailyMinutesDown": {
-      "2025-12-17": 0
+      "2025-12-18": 57,
+      "2025-12-17": 862
     }
   }
 ]
