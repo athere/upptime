@@ -4,7 +4,7 @@
     "url": "https://athe.re/",
     "icon": "https://icons.duckduckgo.com/ip3/athe.re.ico",
     "slug": "at-here-short-url-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 272,
     "timeMonth": 313,
     "timeYear": 315,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-19": 0
+    }
   },
   {
     "name": "AtHere Bookmark Service",
@@ -23,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/bookmark.family.im.ico",
     "slug": "at-here-bookmark-service",
     "status": "up",
-    "uptime": "91.76%",
-    "uptimeDay": "0.00%",
+    "uptime": "91.91%",
+    "uptimeDay": "39.43%",
     "uptimeWeek": "73.92%",
-    "uptimeMonth": "91.76%",
-    "uptimeYear": "91.76%",
+    "uptimeMonth": "91.91%",
+    "uptimeYear": "91.91%",
     "time": 2812,
     "timeDay": 9956,
     "timeWeek": 6900,
