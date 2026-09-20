@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/athe.re.ico",
     "slug": "short-url-service",
     "status": "down",
-    "uptime": "72.37%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "87.81%",
-    "time": 509,
-    "timeDay": 348,
-    "timeWeek": 259,
-    "timeMonth": 293,
-    "timeYear": 556,
+    "uptime": "72.31%",
+    "uptimeDay": "80.47%",
+    "uptimeWeek": "97.21%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "87.73%",
+    "time": 510,
+    "timeDay": 0,
+    "timeWeek": 284,
+    "timeMonth": 290,
+    "timeYear": 557,
     "dailyMinutesDown": {
       "2025-10-19": 779,
       "2025-10-18": 1440,
@@ -47,7 +47,8 @@
       "2026-03-10": 59,
       "2026-05-15": 83,
       "2026-05-14": 973,
-      "2026-09-19": 9
+      "2026-09-20": 148,
+      "2026-09-19": 134
     }
   },
   {
@@ -56,19 +57,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/mark.athe.re.ico",
     "slug": "bookmark-service",
     "status": "down",
-    "uptime": "99.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.67%",
+    "uptime": "99.58%",
+    "uptimeDay": "81.11%",
+    "uptimeWeek": "97.30%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "99.58%",
     "time": 615,
-    "timeDay": 790,
-    "timeWeek": 487,
-    "timeMonth": 508,
+    "timeDay": 0,
+    "timeWeek": 509,
+    "timeMonth": 505,
     "timeYear": 615,
     "dailyMinutesDown": {
       "2026-05-15": 83,
-      "2026-05-14": 972
+      "2026-05-14": 972,
+      "2026-09-20": 148,
+      "2026-09-19": 124
     }
   }
 ]
